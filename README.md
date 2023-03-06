@@ -3,3 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/96367023/222902038-95e1936f-14ba-4f1f-bced-a54b159d988b.png)
 
+
+
+# A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph. More formally a Graph is composed of a set of vertices( V ) and a set of edges( E ). The graph is denoted by G(E, V).
